@@ -52,7 +52,7 @@ ul,ol{
 .fl{
     float:left;
 }
-fr{
+.fr{
     float:right
 }
 /* 清除浮动 */
